@@ -5,7 +5,7 @@ Web design sample of a product landing page. Project made with HTML and CSS
 
 - HTML & CSS
 
-### Screenchots
+### Screenshots
 
 <p align="center">
 <img align="center" style="margin: 0 auto;" src="https://i.imgur.com/7gmYX2R.png">
